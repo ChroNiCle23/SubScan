@@ -37,7 +37,7 @@ pip3 install requests
    ```
    chmod +x SubScan.py
    ```
-
+   
 # Usage
 1. Display help menu
    ```
@@ -47,10 +47,22 @@ pip3 install requests
    ```
    python3 SubScan.py -f
    ```
-3. Live Subdomain Scan
+   Example
+   ```
+   * python3 SubScan.py -f
+   * target url: https://www.example.com
+   * ls
+   * cat subdomains.txt
+   ```
+4. Live Subdomain Scan
    ```
    python3 SubScan.py subdomains.txt -l
    ```
+   Example
+   ```
+   * python3 SubScan.py subdomains.txt -l
+   * targrt url: https://www.example.com
+   ** NOTE: Please use the same url that was implemented for the full scan
 
 # Source
 Implemented
