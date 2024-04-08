@@ -30,7 +30,7 @@ pip3 install requests
     ```
 3. Git Clone
    ```
-   https://github.com/ChroNiCle23/SubScan.git
+   git clone https://github.com/ChroNiCle23/SubScan.git
 
    ```
 4. Change the file permission
