@@ -6,5 +6,57 @@ Python: The script is written in Python, so you need to have Python installed on
 
 Requests Library: The script utilizes the requests library for making HTTP requests. If you don't have it installed, you can install it using pip, the Python package installer. Run the following command in your terminal or command prompt:
 
-Copy code
-pip install requests
+```
+ copy code
+pip3 install requests
+
+```
+
+# Installation
+1. Check the Python version
+    
+    ```
+    Copy code
+    python3 --version
+    
+    ```
+2.  If Python is not installed, you can install it using your package manager. For example, on Ubuntu, you can install Python with the following command:
+    
+    ```
+    Copy code
+    sudo apt-get update
+    sudo apt-get install python3
+    
+    ```
+3. Git Clone
+   ```
+
+   ```
+4. Change the file permission
+   ```
+   chmod +x SubScan.py
+   ```
+
+# Usage
+1. Display help menu
+   ```
+   python3 SubScan.py -h
+   ```
+2. Full Scan
+   ```
+   python3 SubScan.py -f
+   ```
+3. Live Subdomain Scan
+   ```
+   python3 SubScan.py subdomains.txt -l
+   ```
+
+# Source
+Implemented
+_______________
+Wayback Machine(domain))
+Virustotal(domain))
+Urlscan(domain))
+Crt.sh(domain))
+Hacker_target(domain))
+
