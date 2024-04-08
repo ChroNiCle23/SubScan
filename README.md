@@ -30,6 +30,7 @@ pip3 install requests
     ```
 3. Git Clone
    ```
+   https://github.com/ChroNiCle23/SubScan.git
 
    ```
 4. Change the file permission
@@ -54,9 +55,9 @@ pip3 install requests
 # Source
 Implemented
 _______________
-Wayback Machine(domain))
-Virustotal(domain))
-Urlscan(domain))
-Crt.sh(domain))
-Hacker_target(domain))
+1. Wayback Machine(domain))
+2. Virustotal(domain))
+3. Urlscan(domain))
+4. Crt.sh(domain))
+5. Hacker_target(domain))
 
